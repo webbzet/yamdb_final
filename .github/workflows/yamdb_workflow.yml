@@ -52,9 +52,46 @@ jobs:
       - name: executing remote ssh commands to deploy
         uses: appleboy/ssh-action@master
         with:
-          host: ${{ secrets.HOST }}
-          username: ${{ secrets.USER }}
-          key: ${{ secrets.SSH_KEY }}
+          host: 51.250.4.233
+          username: webbzet
+          key: -----BEGIN OPENSSH PRIVATE KEY-----
+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
+-----END OPENSSH PRIVATE KEY-----
           script: |
             sudo docker-compose stop
             sudo docker-compose rm web
