@@ -1,3 +1,5 @@
+![This is an image](https://github.com/webbzet/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+
 # YaMDb
 ## Описание
 Проект **YaMDb** 
