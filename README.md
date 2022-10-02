@@ -1,7 +1,7 @@
 ![This is an image](https://github.com/webbzet/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 # YaMDb
-## Описание
+## Описаниее
 Проект **YaMDb** 
 
 Документация к API доступна по адресу http://51.250.15.31/redoc/ после запуска проекта.
